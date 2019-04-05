@@ -1,3 +1,5 @@
+### Applications close 12 April 2019!
+
 # Apply to Attend
 
 **We encourage everyone who is interested to apply**. Application is open to all, including students, post-doctoral candidates, research staff, industries, startups: to people from across Africa and the world. We are particularly looking for people with a passion for machine learning and who are committed to our mission of strengthening machine learning in Africa. 
